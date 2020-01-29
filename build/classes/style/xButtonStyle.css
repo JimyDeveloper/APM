@@ -1,0 +1,6 @@
+.cus_button {
+    -fx-display: block;
+    -fx-height: 300px;
+    -fx-width: 300px;
+    -fx-border-radius: 50%;
+}
